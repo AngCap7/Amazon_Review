@@ -110,6 +110,7 @@ This project uses the following Python libraries:
 
 Developed by Angelo Capasso.  
 For questions, please contact: capassoa672@gmail.com
+Link of Final Dashboard: https://lookerstudio.google.com/reporting/a56ece05-9489-4051-870f-54db501a3f24/page/p_3l25x1hnud/edit 
 
 ---
 
